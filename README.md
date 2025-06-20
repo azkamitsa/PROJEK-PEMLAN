@@ -40,7 +40,9 @@ Konsep Pemrograman yang Diimplementasikan:
 3. Algoritma: Bubble Sort, Linear Search
 
 Anggota Kelompok:
-1. Azka Mitsalia Zamzami(245150407111044)
-2. 
+1. Azka Mitsalia Zamzami_245150407111044_⁠⁠Sorting dan Searching
+2. Alayya Faza Layaali_245150407111043_Manajemen Pengguna & Peran
+3. 
+4. 
 
 
